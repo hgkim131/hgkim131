@@ -11,7 +11,7 @@ Swift 공부 중인 앱 개발자입니다
 예:
 
 -  현재 배우는 것: Swift / iOS 개발
--  관심 분야: SwiftUI 앱 개발 (ios) / Data Analyzing / AI (NLP, NLU) 
+-  관심 분야: SwiftUI 앱 개발 (ios) / Data Analyzing / AI (NLP, NLU, NLG) 
 -  목표: 
 -  위치: Korea
 
