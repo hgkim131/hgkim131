@@ -4,13 +4,9 @@
 -  현재 배우는 것: Swift / iOS 개발
 -  관심 분야: SwiftUI 앱 개발 (ios) / Data Analyzing / AI (NLP, NLU, NLG) 
 -  목표: 취업 or 대학원
--  위치: Korea
 
 
 ---
-
-# Skills
-
 
 ## Language
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -42,10 +38,6 @@
 
 
 # 📊 GitHub Stats
-
-자동으로 GitHub 활동 표시됨
-
-(아래는 그대로 사용 가능)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hgkim131&show_icons=true)
 
