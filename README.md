@@ -4,6 +4,7 @@
 -  관심 분야: SwiftUI 앱 개발 (ios) / Data Analyzing / AI (NLP, NLU, NLG) 
 -  목표: 취업 or 대학원
 -  취독 자격증 : 정보처리기능사, 드론1종
+-  라즈베리파이로 감자서버 구축중 (sftp 서버, 가끔 스트리밍(jellyfin), Rustdesk 중계서버용 etc...)
 
 ## Language
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
