@@ -32,8 +32,8 @@
 > 내 깃허브 활동량을 시각적으로 보여주는 위젯입니다. 
 > (아래 링크의 `본인아이디` 부분을 실제 GitHub 아이디로 변경해서 사용하세요.)
 
-![[본인아이디]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[본인아이디]&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[본인아이디]&layout=compact&theme=radium)
+![[본인아이디]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=hgkim131&show_icons=true&theme=radium)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgkim131&layout=compact&theme=radium)
 
 ---
 
