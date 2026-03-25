@@ -26,7 +26,6 @@
 
 ## Tools
 
-Git / Xcode (SwiftUI) / VSCode (C/C++) / IntelliJ Ultimate (java) / Android Studio (2023 ~ 2024) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode%20(SwiftUI)-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode%20(C/C++)-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
