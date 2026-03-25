@@ -1,12 +1,8 @@
 # About Me
 
-
 -  현재 배우는 것: Swift / iOS 개발
 -  관심 분야: SwiftUI 앱 개발 (ios) / Data Analyzing / AI (NLP, NLU, NLG) 
 -  목표: 취업 or 대학원
-
-
----
 
 ## Language
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -36,13 +32,9 @@
 ![Portainer](https://img.shields.io/badge/Portainer-13BEFF?style=for-the-badge&logo=portainer&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflared-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-
 # 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hgkim131&show_icons=true)
-
-
----
 
 # Contact
 
@@ -51,9 +43,6 @@
 Email: smtp서버 구축예정
 
 GitHub: https://github.com/hgkim131
-
-
----
 
 # 좌우명
 
