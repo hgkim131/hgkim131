@@ -31,6 +31,8 @@
 ##  Contact
 - **Email:** SMTP 서버 구축 예정
 - **GitHub:** [https://github.com/hgkim131](https://github.com/hgkim131)
+
 <br>
+
 ## 좌우명
 > *"능력이 없으면 열정이라도 있어야 하고, 열정이 없으면 겸손해야 한다."*
