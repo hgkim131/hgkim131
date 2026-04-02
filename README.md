@@ -8,7 +8,7 @@
 - 현재 연구실에 들어가서 SwiftUI로 앱개발 하는중 (private으로 업로드함)
   
 <br>
-## Tech Stack
+### Tech Stack
 
 ### Languages
 
