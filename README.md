@@ -41,4 +41,8 @@
 <br>
 
 ## 좌우명
-> *"능력이 없으면 열정이라도 있어야 하고, 열정이 없으면 겸손해야 한다."*
+> *"Consistently"
+"Constantly"
+"Patient"
+> "Stand Alone"
+> "Step-by-Step"*
