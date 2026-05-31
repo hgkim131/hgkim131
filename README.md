@@ -1,7 +1,7 @@
 ## About Me
 
 - **현재 배우는 것:** Swift / iOS 개발
-- **관심 분야:** SwiftUI 앱 개발 (iOS) / Data Analyzing / AI (NLP, NLU, NLG)
+- **관심 분야:** SwiftUI 앱 개발 (iOS) / AI (NLP, NLU, NLG) / 컴퓨터 비전 (Yolo)
 - **목표:** 취업 or 대학원
 - **취득한 자격증:** 정보처리기능사, 드론 1종
 - **TMI:** 라즈베리파이로 감자 서버 구축 중 (SFTP 서버, 가끔 스트리밍(Jellyfin), RustDesk 중계 서버 등)
